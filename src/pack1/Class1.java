@@ -6,6 +6,8 @@ public class Class1
 	{
 		System.out.println("Happy International Women's Day");
 		
+		System.out.println("08/03/2023");
+		
 	}
 
 }
